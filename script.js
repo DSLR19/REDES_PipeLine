@@ -180,3 +180,4 @@ function verificarRespostaJogo(resposta) {
 }
 
 exibirPergunta(); // Exibe a primeira pergunta
+
